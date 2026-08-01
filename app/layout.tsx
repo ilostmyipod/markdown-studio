@@ -5,8 +5,8 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'Markdown Studio — Live MD ↔ HTML Editor',
   description:
-    'A sleek, side-by-side Markdown editor with live HTML preview, copy, export, themes, auto-save and PDF.',
-  generator: 'v0.app',
+    'A simple Markdown editor with live HTML preview, copy, export, themes, auto-save, and PDF.',
+  generator: 'ilostmyipod',
   icons: {
     icon: [
       {
