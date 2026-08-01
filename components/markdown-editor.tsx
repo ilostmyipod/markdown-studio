@@ -232,7 +232,7 @@ const SAMPLE = [
   "",
   "---",
   "",
-  "Made with care. [md.jessejesse.com](https://md.JesseJesse.com).",
+  ".md with care [md.jessejesse.com](https://md.jessejesse.com).",
   "",
 ].join("\n")
 
