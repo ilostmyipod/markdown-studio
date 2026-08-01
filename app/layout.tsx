@@ -3,7 +3,7 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Markdown Studio — Live MD ↔ HTML Editor',
+  title: 'Markdown Studio',
   description:
     'A simple Markdown editor with live HTML preview, copy, export, themes, auto-save, and PDF.',
   generator: 'ilostmyipod',
