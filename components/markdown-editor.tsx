@@ -657,7 +657,7 @@ export default function MarkdownEditor() {
               onKeyDown={handleKeyDown}
               onScroll={handleScroll}
               className="editor-area nice-scroll flex-1 min-h-[300px] w-full resize-none bg-transparent p-4 sm:p-5 outline-none text-sm"
-              placeholder={"# Start typing Markdown…\n\n**Bold**, _italic_, `code`, [links](https://vercel.com), lists, tables and more."}
+              placeholder={"# Start typing Markdown…\n\n**Bold**, _italic_, `code`, [links](https://ilostmyipod,github.io), lists, tables and more."}
             />
           </section>
 
